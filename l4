@@ -1,0 +1,11 @@
+package LB4;
+
+public class Menu{
+    
+    public static final String[] Menu = new String[] {
+            "Завтрак" , "Обед", "Ужин"  
+        };  
+        public static final String[] Info = new String[]{
+            " Стоимость - 560 rub\n", " Стоимость - 900 rub\n", " Стоимость - 1000 rub\n"
+        };
+    }
